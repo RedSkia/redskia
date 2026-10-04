@@ -1,15 +1,13 @@
 <div align="center">
 
-<h1><img src="RedSkia_Icon.svg" alt="" width="44" align="absmiddle" />&nbsp;RedSkia</h1>
+<h3><img src="RedSkia_Icon.svg" alt="" width="56" align="absmiddle" />&nbsp;RedSkia</h3>
 
 **Backend developer · C# and .NET**
 
-</div>
-
-## Contact
-
 <a href="https://redskia.dev"><img src="https://img.shields.io/badge/redskia.dev-EE3B33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="redskia.dev" /></a>
 <a href="https://www.linkedin.com/in/marcusdk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
 
 ## About me
 
