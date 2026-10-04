@@ -7,8 +7,8 @@
 Specializing in C# and the .NET ecosystem.
 Clean, structured and reliable code for real-world applications and scalable cloud systems.
 
-<a href="https://redskia.dev"><img src="button-redskia.svg" alt="redskia.dev" height="30" /></a>
-<a href="https://www.linkedin.com/in/marcusdk/"><img src="button-linkedin.svg" alt="LinkedIn" height="30" /></a>
+<a href="https://redskia.dev"><img src="button-redskia.svg" alt="redskia.dev" height="34" /></a>
+<a href="https://www.linkedin.com/in/marcusdk/"><img src="button-linkedin.svg" alt="LinkedIn" height="34" /></a>
 
 </div>
 
