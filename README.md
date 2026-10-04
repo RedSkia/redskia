@@ -14,7 +14,12 @@ I build software for real use: server plugins sold in the hundreds, e-commerce s
 
 ## Stack
 
-C# · .NET · ASP.NET Core · Entity Framework Core · Blazor · PostgreSQL · SQL Server · Docker · Azure · Git · xUnit · Playwright
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,html,css,postgres,docker,azure,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,html,css,postgres,docker,azure,git&theme=light" alt="C#, .NET, Blazor, JavaScript, HTML, CSS, PostgreSQL, Docker, Azure, Git" />
+</picture>
+
+ASP.NET Core · Entity Framework Core · SQL Server · xUnit · Playwright
 
 ## Project
 
