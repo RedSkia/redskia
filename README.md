@@ -10,7 +10,7 @@
 
 ## About me
 
-I build software for real use: server plugins sold in the hundreds, e-commerce solutions and SaaS products. I work independently and care about clean, tested code. Open to junior C# / .NET roles.
+I build software for real use: server plugins sold in the hundreds, e-commerce solutions and SaaS products. I work independently and care about clean, tested code. Open to C# / .NET roles.
 
 ## Skills
 
@@ -76,12 +76,13 @@ I build software for real use: server plugins sold in the hundreds, e-commerce s
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-2D3748?style=flat-square&logo=docker&logoColor=white)
 ![axe](https://img.shields.io/badge/axe-2D3748?style=flat-square&logoColor=white)
 
-## Project
+## Projects
 
-**[redskia.dev](https://redskia.dev)** is a portfolio, software marketplace, licensing, forum and messaging platform.
-- Blazor WebAssembly front end and an ASP.NET Core API on .NET 10
-- PostgreSQL, Stripe payments, layered architecture, unit and browser tests
-- Hosted on Cloudflare Pages and Google Cloud Run
+| Project | Description |
+|---|---|
+| **[redskia.dev](https://redskia.dev)** | Portfolio, software marketplace, licensing, forum and messaging platform. Blazor WebAssembly and ASP.NET Core on .NET 10, PostgreSQL, Stripe, layered architecture, unit and browser tests. Hosted on Cloudflare Pages and Google Cloud Run. |
+| **Game server plugins** | Plugins for game servers, with hundreds of units sold. |
+| **E-commerce and SaaS** | Complete full-stack e-commerce solutions and SaaS applications, built from the ground up. |
 
 ## Contact
 
