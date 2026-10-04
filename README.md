@@ -14,16 +14,20 @@ I build software for real use: server plugins sold in the hundreds, e-commerce s
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,html,css,postgres,docker,azure,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,html,css,postgres,docker,azure,git&theme=light" alt="C#, .NET, Blazor, JavaScript, HTML, CSS, PostgreSQL, Docker, Azure, Git" />
-</picture>
-
-ASP.NET Core · Entity Framework Core · SQL Server · xUnit · Playwright
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Project
 
-**[redskia.dev](https://redskia.dev)** is a portfolio, software marketplace, licensing, forum and messaging platform.
+**redskia.dev** is a portfolio, software marketplace, licensing, forum and messaging platform.
 - Blazor WebAssembly front end and an ASP.NET Core API on .NET 10
 - PostgreSQL, Stripe payments, layered architecture, unit and browser tests
 - Hosted on Cloudflare Pages and Google Cloud Run
+
+[![Visit redskia.dev](https://img.shields.io/badge/Visit-redskia.dev-EE3B33?style=for-the-badge)](https://redskia.dev)
