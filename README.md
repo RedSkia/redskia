@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><img src="RedSkia_Icon.svg" alt="" width="56" align="absmiddle" />&nbsp;RedSkia</h3>
+<h1>Hello, I'm RedSkia 👋</h1>
 
 **Full Stack Developer**
 
